@@ -34,11 +34,7 @@ Link to your trello board.
 - Front-end Technology
 - Infrastructure
 	- How will you deploy and host your app?
-<<<<<<< HEAD
 
-=======
-
->>>>>>> upstream/master
 ## Wireframes
 
 Link to wireframe
@@ -49,7 +45,3 @@ Link to wireframe
 	- A bullet or two describing the feature in more detail
 1.  Another App feature
 	- More details in sub-bullets
-<<<<<<< HEAD
-
-=======
->>>>>>> upstream/master
