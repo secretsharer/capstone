@@ -24,7 +24,8 @@ Just how important good documentation is.
 How much Ada taught me about not only programming but trusting my instincts and abilities.
 And a reminder that, having a good team to work with is pretty much the best.
 
-On that note - Charles did get the model to train after all, which I'm very grateful for. We connected Ubot to both the emulator and youmachine's API, so now we can play a short game of "Who said it - Ubot or YouMachine?"
+On that note - Charles did get the model to train after all, which I'm very grateful for. It can take a long time to train a neural network on a data set and get any recognizable results, but, we connected Ubot to both the emulator and youmachine's API at it's current progress, so now we can play a short game of "Who said it - Ubot or YouMachine?"
+
 
 Thank you.
 Volunteers?
