@@ -1,4 +1,4 @@
-Ubot Vs. You-Machine:
+**Ubot Vs. You-Machine:**
 
 **Clothes: HTML/CSS  
 Skin & Bones: Javascript, JQuery  
@@ -19,10 +19,10 @@ After days of drafting python libraries and different venvs to run the SpeakEasy
 
 What I learned:
 
-Just frustrating python venvs and library dependencies can be.
-Just how important good documentation is.
-How much Ada taught me about not only programming but trusting my instincts and abilities.
-And a reminder that, having a good team to work with is pretty much the best.
+Just frustrating python venvs and library dependencies can be.  
+Just how important good documentation is.  
+How much Ada taught me about not only programming but trusting my instincts and abilities.  
+And a reminder that, having a good team to work with is pretty much the best.  
 
 On that note - Charles did get the model to train after all, which I'm very grateful for. It can take a long time to train a neural network on a data set and get any recognizable results, but, we connected Ubot to both the emulator and youmachine's API at it's current progress, so now we can play a short game of "Who said it - Ubot or YouMachine?"
 
